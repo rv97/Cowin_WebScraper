@@ -3,4 +3,4 @@ DISTRICT_BOX_XPATH = "/html/body/app-root/div/app-home/div[2]/div/appointment-ta
 SEARCH_BUTTON_XPATH = "/html/body/app-root/div/app-home/div[2]/div/appointment-table/div/div/div/div/div/div/div/div/div/div/div[2]/form/div/div/div[2]/div/div[3]/button"
 FILTERS_CLASSNAME = "form-check-label"
 ROWS_CSS_SELECTOR = "[class='row ng-star-inserted']"
-AVAILABILITY_REGEX = "^[0-9]"
+AVAILABILITY_REGEX = "^[0-9]" 
