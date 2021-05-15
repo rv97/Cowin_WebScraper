@@ -1,12 +1,11 @@
 #!flask/bin/python
-from utils import Cowinutils
-from cowin_parser import CowinParser
+from startProcess import startThread, registerNotification
 from flask import Flask
 from flask import request
 from flask import abort
+
 app = Flask(__name__)
 
-searchDetails = {}
 @app.route('/setSearch', methods=['POST'])
 def setSearchQuery():
     response_text = {}
@@ -15,13 +14,16 @@ def setSearchQuery():
     else:
         searchDetails = request.json
         response_text = "Request Placed Successfully."
-        cowinParser = CowinParser()
-        cowinParser.startProcess(searchDetails)
+        startThread(searchDetails)
     return response_text, 201
 
+@app.route('/registerNotify', methods=['GET'])
+def notificationRegistration():
+    result = registerNotification()
+    return result, 201
 
 @app.route('/')
 def index():
-    return "hello world"
+    return "Welcome to Cowin Notifier"
 if __name__ == '__main__':
     app.run(debug=True)

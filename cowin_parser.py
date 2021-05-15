@@ -8,7 +8,6 @@ import constants
 class CowinParser():
 
     def __init__(self):
-        self.start_time = time.time()
         options = Options()
         options.headless = True
         self.driver = webdriver.Firefox(options=options)
@@ -53,21 +52,23 @@ class CowinParser():
                 
     def getRows(self):
         rows = self.driver.find_elements_by_css_selector(constants.ROWS_CSS_SELECTOR)
+        file = None
         for row in rows:
             row_text = row.text
             row_split = row_text.split("\n")
             isSlotAvailable = self.isSlotAvailable(row_split)
             if isSlotAvailable:
-                print(row_split[0])
-        print("--- %s seconds ---" % (time.time() - self.start_time))
+                file = open("hospitaldata.txt", "w")
+                file.write(row_split[0])
+        file.close()
 
     def isSlotAvailable(self, row_split):
         for index in range(2, len(row_split)):
             isAvailable = re.search(constants.AVAILABILITY_REGEX, row_split[index])
             if isAvailable:
                 return isAvailable
-    
-    def startProcess(self, queryParameters):
+
+    def startSearch(self, queryParameters):
         self.cowin_utils = Cowinutils()
         self.cowin_utils.setQueryDetails(queryParameters)
         self.cowin_utils.getListOfStatesAndDistrict()
