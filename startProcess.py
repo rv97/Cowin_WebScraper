@@ -8,6 +8,7 @@ notify = Notify()
 
 def registerNotification():
     result = str(notify.register())
+    print("Notification Registered Successfully")
     return result.splitlines()[1]
 
 def sendNotification():
