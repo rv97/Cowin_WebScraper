@@ -1,0 +1,5 @@
+Flask==2.0.0
+notify-run==0.0.13
+Werkzeug==2.0.0
+requests==2.22.0
+selenium==3.141.0
