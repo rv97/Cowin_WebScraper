@@ -1,0 +1,6 @@
+STATE_BOX_XPATH = "/html/body/app-root/div/app-home/div[2]/div/appointment-table/div/div/div/div/div/div/div/div/div/div/div[2]/form/div/div/div[2]/div/div[1]/mat-form-field/div/div[1]/div/mat-select"
+DISTRICT_BOX_XPATH = "/html/body/app-root/div/app-home/div[2]/div/appointment-table/div/div/div/div/div/div/div/div/div/div/div[2]/form/div/div/div[2]/div/div[2]/mat-form-field/div/div[1]/div/mat-select"
+SEARCH_BUTTON_XPATH = "/html/body/app-root/div/app-home/div[2]/div/appointment-table/div/div/div/div/div/div/div/div/div/div/div[2]/form/div/div/div[2]/div/div[3]/button"
+FILTERS_CLASSNAME = "form-check-label"
+ROWS_CSS_SELECTOR = "[class='row ng-star-inserted']"
+AVAILABILITY_REGEX = "^[0-9]"
