@@ -3,14 +3,19 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver import FirefoxOptions
 import time
 import re
+
+from selenium.webdriver.firefox.firefox_profile import FirefoxProfile
 from utils import Cowinutils
 import constants
 class CowinParser():
 
     def __init__(self):
         options = FirefoxOptions()
+        profile = FirefoxProfile()
+        user_agent = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:88.0) Gecko/20100101 Firefox/88.0"
+        profile.set_preference("general.useragent.override", user_agent)
         options.add_argument("--headless")
-        self.driver = webdriver.Firefox(firefox_options=options)
+        self.driver = webdriver.Firefox(firefox_profile=profile,options=options)
         self.driver.get("https://www.cowin.gov.in/home")
         time.sleep(3)
 
