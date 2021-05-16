@@ -11,7 +11,6 @@ class CowinParser():
         options = FirefoxOptions()
         options.add_argument("--headless")
         self.driver = webdriver.Firefox(firefox_options=options)
-        self.driver.maximize_window()
         self.driver.get("https://www.cowin.gov.in/home")
         time.sleep(3)
 
