@@ -1,0 +1,553 @@
+1620993928488	geckodriver	INFO	Listening on 127.0.0.1:64127
+1620993929326	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofile7QbNTY"
+2021-05-14 17:35:35.342 firefox-bin[6259:138366] Warning: Expected min height of view: (<NSButton: 0x12d335000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-14 17:35:35.344 firefox-bin[6259:138366] Warning: Expected min height of view: (<NSButton: 0x13a871400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-14 17:35:35.344 firefox-bin[6259:138366] Warning: Expected min height of view: (<NSButton: 0x13a871c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-14 17:35:35.345 firefox-bin[6259:138366] Warning: Expected min height of view: (<NSButton: 0x13a873800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-14 17:35:35.346 firefox-bin[6259:138366] Warning: Expected min height of view: (<NSButton: 0x13a872000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-14 17:35:35.346 firefox-bin[6259:138366] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13a872c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-14 17:35:35.347 firefox-bin[6259:138366] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13aa89000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620993936939	Marionette	INFO	Listening on port 64155
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620993937037	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620993937049	Marionette	ERROR	[19] No reply from Marionette:Register
+1620994025096	geckodriver	INFO	Listening on 127.0.0.1:64699
+1620994026110	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileY9lk7u"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620994028221	Marionette	INFO	Listening on port 64715
+1620994028318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620994028330	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620994430101	geckodriver	INFO	Listening on 127.0.0.1:50127
+1620994431109	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofilezjI6nX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620994433200	Marionette	INFO	Listening on port 50142
+1620994433307	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620994433322	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620994538808	geckodriver	INFO	Listening on 127.0.0.1:50542
+1620994539818	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofile6MKimx"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1620994541951	Marionette	INFO	Listening on port 50554
+1620994542015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1620994542029	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1620999996300	Marionette	INFO	Stopped listening on port 64155
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621060870917	geckodriver	INFO	Listening on 127.0.0.1:58998
+1621060871905	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileQAnTb1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621060875133	Marionette	INFO	Listening on port 59009
+1621060875205	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621060875219	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1621063804339	geckodriver	INFO	Listening on 127.0.0.1:59922
+1621063805347	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofilezDq5Wg"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621063809801	Marionette	INFO	Listening on port 59933
+1621063809915	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621063809930	Marionette	ERROR	[19] No reply from Marionette:Register
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1621063900230	geckodriver	INFO	Listening on 127.0.0.1:60057
+1621063901247	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileSO7fdP"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621063905136	Marionette	INFO	Listening on port 60068
+1621063905220	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621063905239	Marionette	ERROR	[19] No reply from Marionette:Register
+1621064084373	geckodriver	INFO	Listening on 127.0.0.1:60209
+1621064085382	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofile56iIU2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621064088838	Marionette	INFO	Listening on port 60220
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621064088937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621064088949	Marionette	ERROR	[19] No reply from Marionette:Register
+1621064165853	geckodriver	INFO	Listening on 127.0.0.1:60336
+1621064166860	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileZyl4Fu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621064170362	Marionette	INFO	Listening on port 60348
+1621064170401	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621064170413	Marionette	ERROR	[19] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1621074299577	geckodriver	INFO	Listening on 127.0.0.1:61359
+1621074300435	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofile3KwGhr"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621074309793	Marionette	INFO	Listening on port 61371
+1621074309863	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621074309880	Marionette	ERROR	[19] No reply from Marionette:Register
+1621074327323	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1621074916337	geckodriver	INFO	Listening on 127.0.0.1:61716
+1621074917346	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofilehgGJbm"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621074919788	Marionette	INFO	Listening on port 61727
+1621074919816	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621074919827	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621074950812	geckodriver	INFO	Listening on 127.0.0.1:61806
+1621074951815	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofile3G0V8f"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621074954121	Marionette	INFO	Listening on port 61818
+1621074954196	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621074954205	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621075020787	geckodriver	INFO	Listening on 127.0.0.1:61913
+1621075021791	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileMCquxC"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621075024077	Marionette	INFO	Listening on port 61925
+1621075024149	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621075024159	Marionette	ERROR	[19] No reply from Marionette:Register
+1621075160798	geckodriver	INFO	Listening on 127.0.0.1:62033
+1621075161811	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileE9CdJc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621075164601	Marionette	INFO	Listening on port 62045
+1621075164700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621075164710	Marionette	ERROR	[19] No reply from Marionette:Register
+1621075233244	geckodriver	INFO	Listening on 127.0.0.1:62162
+1621075234258	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileTElhib"
+2021-05-15 16:10:36.324 firefox-bin[27047:542547] Warning: Expected min height of view: (<NSButton: 0x134cc2800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:10:36.325 firefox-bin[27047:542547] Warning: Expected min height of view: (<NSButton: 0x134cc0400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:10:36.326 firefox-bin[27047:542547] Warning: Expected min height of view: (<NSButton: 0x134cc0800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:10:36.326 firefox-bin[27047:542547] Warning: Expected min height of view: (<NSButton: 0x134cc1000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:10:36.327 firefox-bin[27047:542547] Warning: Expected min height of view: (<NSButton: 0x134cc3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:10:36.328 firefox-bin[27047:542547] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134de4000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:10:36.328 firefox-bin[27047:542547] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x134dedc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621075237601	Marionette	INFO	Listening on port 62173
+1621075237688	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621075237701	Marionette	ERROR	[16] No reply from Marionette:Register
+1621075287756	geckodriver	INFO	Listening on 127.0.0.1:62277
+1621075288768	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofilec9CRRW"
+2021-05-15 16:11:30.729 firefox-bin[27078:543673] Warning: Expected min height of view: (<NSButton: 0x13dfe5c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:11:30.730 firefox-bin[27078:543673] Warning: Expected min height of view: (<NSButton: 0x13dfe7c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:11:30.731 firefox-bin[27078:543673] Warning: Expected min height of view: (<NSButton: 0x13dff0800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:11:30.731 firefox-bin[27078:543673] Warning: Expected min height of view: (<NSButton: 0x13dfebc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:11:30.732 firefox-bin[27078:543673] Warning: Expected min height of view: (<NSButton: 0x13dfec000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:11:30.732 firefox-bin[27078:543673] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13dfecc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:11:30.733 firefox-bin[27078:543673] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13e09cc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621075292332	Marionette	INFO	Listening on port 62288
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621075292412	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621075292426	Marionette	ERROR	[19] No reply from Marionette:Register
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1621075474426	geckodriver	INFO	Listening on 127.0.0.1:62458
+1621075475443	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileSH5DrX"
+2021-05-15 16:14:38.235 firefox-bin[27166:547382] Warning: Expected min height of view: (<NSButton: 0x131dc0c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:14:38.237 firefox-bin[27166:547382] Warning: Expected min height of view: (<NSButton: 0x131dc2800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:14:38.239 firefox-bin[27166:547382] Warning: Expected min height of view: (<NSButton: 0x131dc2c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:14:38.241 firefox-bin[27166:547382] Warning: Expected min height of view: (<NSButton: 0x131dc3400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:14:38.242 firefox-bin[27166:547382] Warning: Expected min height of view: (<NSButton: 0x131dbdc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:14:38.244 firefox-bin[27166:547382] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x131dbf000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:14:38.245 firefox-bin[27166:547382] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1328da800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621075480299	Marionette	INFO	Listening on port 62472
+1621075480353	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621075480371	Marionette	ERROR	[16] No reply from Marionette:Register
+1621075516482	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1621075571330	geckodriver	INFO	Listening on 127.0.0.1:62605
+1621075572352	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileuPqhwv"
+2021-05-15 16:16:15.920 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSButton: 0x1392dbc00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:16:15.922 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSButton: 0x1392df000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:16:15.924 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSButton: 0x1392de400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:16:15.926 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSButton: 0x1392e4c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:16:15.927 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSButton: 0x1392e0c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:16:15.929 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x1392e0400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:16:15.931 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x139dcf000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621075578523	Marionette	INFO	Listening on port 62616
+1621075578617	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621075578646	Marionette	ERROR	[16] No reply from Marionette:Register
+1621075638341	geckodriver	INFO	Listening on 127.0.0.1:62766
+1621075639360	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofilejLdVT3"
+2021-05-15 16:17:25.444 firefox-bin[27287:551165] Warning: Expected min height of view: (<NSButton: 0x13cb56c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:17:25.445 firefox-bin[27287:551165] Warning: Expected min height of view: (<NSButton: 0x13cb54400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:17:25.447 firefox-bin[27287:551165] Warning: Expected min height of view: (<NSButton: 0x13cb54800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:17:25.448 firefox-bin[27287:551165] Warning: Expected min height of view: (<NSButton: 0x13cb58000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:17:25.450 firefox-bin[27287:551165] Warning: Expected min height of view: (<NSButton: 0x13cb55800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:17:25.451 firefox-bin[27287:551165] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13cb56400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:17:25.452 firefox-bin[27287:551165] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13cd35000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621075649213	Marionette	INFO	Listening on port 62778
+1621075649531	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621075649566	Marionette	ERROR	[19] No reply from Marionette:Register
+1621075666697	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+2021-05-15 16:18:24.806 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSButton: 0x114956400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:18:24.809 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSButton: 0x12e8e3c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:18:24.810 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSButton: 0x12e8e7400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:18:24.812 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSButton: 0x12e8eb000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:18:24.814 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSButton: 0x12e8ee800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:18:24.815 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12e8ec800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:18:24.817 firefox-bin[27231:549635] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x12ea05400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+JavaScript error: resource:///actors/ContextMenuChild.jsm, line 568: TypeError: doc is null
+1621075709354	Marionette	INFO	Stopped listening on port 62288
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621075711371	Marionette	INFO	Stopped listening on port 62173
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621075713704	Marionette	INFO	Stopped listening on port 62616
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621076016158	geckodriver	INFO	Listening on 127.0.0.1:63051
+1621076016221	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofile3UgUI2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621076021880	Marionette	INFO	Listening on port 63060
+1621076021992	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621076022027	Marionette	ERROR	[19] No reply from Marionette:Register
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1621076142058	geckodriver	INFO	Listening on 127.0.0.1:63214
+1621076143089	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileE9L7gc"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621076150710	Marionette	INFO	Listening on port 63225
+1621076150848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621076150882	Marionette	ERROR	[19] No reply from Marionette:Register
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1621076533841	geckodriver	INFO	Listening on 127.0.0.1:63431
+1621076534873	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileg9zoyy"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621076541893	Marionette	INFO	Listening on port 63442
+1621076542000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621076542049	Marionette	ERROR	[19] No reply from Marionette:Register
+1621076555692	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1621076658619	geckodriver	INFO	Listening on 127.0.0.1:63585
+1621076659648	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofilelcVxdi"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621076667018	Marionette	INFO	Listening on port 63597
+1621076667170	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621076667202	Marionette	ERROR	[19] No reply from Marionette:Register
+1621076685697	geckodriver	INFO	Listening on 127.0.0.1:63729
+1621076685720	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofiledA7QR4"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621076691754	Marionette	INFO	Listening on port 63738
+1621076691799	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621076691822	Marionette	ERROR	[19] No reply from Marionette:Register
+1621076944191	geckodriver	INFO	Listening on 127.0.0.1:63927
+1621076945212	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileBlw5nQ"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621076953492	Marionette	INFO	Listening on port 63938
+1621076953578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621076953606	Marionette	ERROR	[19] No reply from Marionette:Register
+1621076966137	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621076992617	geckodriver	INFO	Listening on 127.0.0.1:64085
+1621076993651	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofile50fkrv"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621077001910	Marionette	INFO	Listening on port 64096
+1621077002056	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621077002117	Marionette	ERROR	[19] No reply from Marionette:Register
+1621077015750	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621077056913	geckodriver	INFO	Listening on 127.0.0.1:64252
+1621077057944	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofilec9ptAR"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621077066900	Marionette	INFO	Listening on port 64263
+1621077067065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621077067109	Marionette	ERROR	[19] No reply from Marionette:Register
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1621077086359	geckodriver	INFO	Listening on 127.0.0.1:64421
+1621077087387	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofiletQy30O"
+2021-05-15 16:41:32.976 firefox-bin[28259:575814] Warning: Expected min height of view: (<NSButton: 0x1408d7c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:41:32.991 firefox-bin[28259:575814] Warning: Expected min height of view: (<NSButton: 0x119bd3400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:41:32.993 firefox-bin[28259:575814] Warning: Expected min height of view: (<NSButton: 0x1408d9c00>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:41:32.997 firefox-bin[28259:575814] Warning: Expected min height of view: (<NSButton: 0x1408dc400>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:41:32.999 firefox-bin[28259:575814] Warning: Expected min height of view: (<NSButton: 0x141445800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:41:33.006 firefox-bin[28259:575814] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x141444800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:41:33.009 firefox-bin[28259:575814] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x141451000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621077096723	Marionette	INFO	Listening on port 64432
+1621077096804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621077096838	Marionette	ERROR	[16] No reply from Marionette:Register
+1621077109710	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1621077300581	geckodriver	INFO	Listening on 127.0.0.1:64637
+1621077300650	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofilef1mJ9X"
+2021-05-15 16:45:06.296 firefox-bin[28425:578724] Warning: Expected min height of view: (<NSButton: 0x12ec19800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:45:06.298 firefox-bin[28425:578724] Warning: Expected min height of view: (<NSButton: 0x13a8ac000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:45:06.299 firefox-bin[28425:578724] Warning: Expected min height of view: (<NSButton: 0x13a8ab800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:45:06.301 firefox-bin[28425:578724] Warning: Expected min height of view: (<NSButton: 0x13a8ad000>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:45:06.302 firefox-bin[28425:578724] Warning: Expected min height of view: (<NSButton: 0x13a8b1800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:45:06.304 firefox-bin[28425:578724] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13a8ad800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+2021-05-15 16:45:06.305 firefox-bin[28425:578724] Warning: Expected min height of view: (<NSPopoverTouchBarItemButton: 0x13aaa3800>) to be less than or equal to 30 but got a height of 32.000000. This error will be logged once per view in violation.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621077309993	Marionette	INFO	Listening on port 64646
+1621077310236	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621077310316	Marionette	ERROR	[19] No reply from Marionette:Register
+1621077324716	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621077334928	Marionette	INFO	Stopped listening on port 64646
+1621079555130	geckodriver	INFO	Listening on 127.0.0.1:49181
+1621079556148	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileF1ZFP5"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621079563766	Marionette	INFO	Listening on port 49193
+1621079563876	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621079563906	Marionette	ERROR	[19] No reply from Marionette:Register
+1621079576927	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621079584699	Marionette	INFO	Stopped listening on port 49193
+1621080108081	geckodriver	INFO	Listening on 127.0.0.1:49576
+1621080109115	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofile7attl1"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080115200	Marionette	INFO	Listening on port 49587
+1621080115310	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080115333	Marionette	ERROR	[19] No reply from Marionette:Register
+1621080127252	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621080135502	Marionette	INFO	Stopped listening on port 49587
+1621080159891	geckodriver	INFO	Listening on 127.0.0.1:49726
+1621080159967	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileCYym4S"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080165560	Marionette	INFO	Listening on port 49735
+1621080165642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080165664	Marionette	ERROR	[19] No reply from Marionette:Register
+1621080176549	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621080183926	Marionette	INFO	Stopped listening on port 49735
+1621080191803	geckodriver	INFO	Listening on 127.0.0.1:49853
+1621080192820	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileFzXItG"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080197418	geckodriver	INFO	Listening on 127.0.0.1:49921
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080198040	Marionette	INFO	Listening on port 49864
+1621080198359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080198377	Marionette	ERROR	[19] No reply from Marionette:Register
+1621080198439	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofilePAZWs2"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080203565	Marionette	INFO	Listening on port 49948
+1621080203670	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080203693	Marionette	ERROR	[19] No reply from Marionette:Register
+1621080209548	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621080217059	Marionette	INFO	Stopped listening on port 49864
+1621080221547	Marionette	INFO	Stopped listening on port 49948
+1621080259092	geckodriver	INFO	Listening on 127.0.0.1:50110
+1621080260112	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofile5D5Jic"
+*** You are running in headless mode.
+1621080264095	geckodriver	INFO	Listening on 127.0.0.1:50170
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080265118	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofile3AvPOx"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080265655	Marionette	INFO	Listening on port 50121
+1621080265774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080265800	Marionette	ERROR	[19] No reply from Marionette:Register
+1621080268150	geckodriver	INFO	Listening on 127.0.0.1:50283
+1621080269178	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileX4NdTk"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080271623	Marionette	INFO	Listening on port 50200
+1621080271791	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080271823	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080276189	Marionette	INFO	Listening on port 50304
+1621080276302	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080276328	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080277624	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621080283506	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621080287677	Marionette	INFO	Stopped listening on port 50121
+1621080288713	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621080291899	Marionette	INFO	Stopped listening on port 50200
+1621080331383	Marionette	INFO	Stopped listening on port 50304
+1621080547054	geckodriver	INFO	Listening on 127.0.0.1:50580
+1621080547127	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileuL1kWt"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080554643	Marionette	INFO	Listening on port 50589
+1621080554775	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080554806	Marionette	ERROR	[19] No reply from Marionette:Register
+1621080566956	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621080575110	Marionette	INFO	Stopped listening on port 50589
+1621080648260	geckodriver	INFO	Listening on 127.0.0.1:50744
+1621080648338	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileWkOqOD"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621080653729	Marionette	INFO	Listening on port 50753
+1621080653797	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621080653816	Marionette	ERROR	[19] No reply from Marionette:Register
+1621080666606	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621080674240	Marionette	INFO	Stopped listening on port 50753
+1621096991174	geckodriver	INFO	Listening on 127.0.0.1:53403
+1621096991965	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileyzS8Fd"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621096997116	Marionette	INFO	Listening on port 53418
+1621096997213	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621096997234	Marionette	ERROR	[19] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621097008494	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:235:19
+TimedPromise@chrome://marionette/content/sync.js:220:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621097016317	Marionette	INFO	Stopped listening on port 53418
