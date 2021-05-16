@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.firefox.options import Options
+from selenium.webdriver import FirefoxOptions
 import time
 import re
 from utils import Cowinutils
@@ -8,9 +8,9 @@ import constants
 class CowinParser():
 
     def __init__(self):
-        options = Options()
-        options.headless = True
-        self.driver = webdriver.Firefox(options=options)
+        options = FirefoxOptions()
+        options.add_argument("--headless")
+        self.driver = webdriver.Firefox(firefox_options=options)
         self.driver.maximize_window()
         self.driver.get("https://www.cowin.gov.in/home")
         time.sleep(3)
