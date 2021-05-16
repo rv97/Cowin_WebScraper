@@ -1,4 +1,5 @@
 #!flask/bin/python
+from logging import debug
 from startProcess import startThread, registerNotification
 from flask import Flask
 from flask import request
@@ -27,4 +28,4 @@ def index():
     return "Welcome to Cowin Notifier"
 
 if __name__ == '__main__':
-    app.run(threaded=True)
+    app.run(debug=True)
