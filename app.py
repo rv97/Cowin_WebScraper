@@ -28,4 +28,4 @@ def index():
     return "Welcome to Cowin Notifier"
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(threading=True)
