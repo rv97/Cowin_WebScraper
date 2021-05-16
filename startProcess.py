@@ -1,7 +1,6 @@
 from cowin_parser import CowinParser
 import threading
 from notify_run import Notify
-import sys
 import os
 
 notify = Notify()
@@ -25,7 +24,6 @@ def runSearch(searchDetails):
     sendNotification()
     print("Notification Sent")
     os.remove("hospitaldata.txt")
-    sys.exit()
 
 def startThread(searchDetails):
     thread = threading.Thread(target=runSearch, args=(searchDetails, ))
