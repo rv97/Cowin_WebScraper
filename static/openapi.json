@@ -1,0 +1,142 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "version": "1.0.0",
+    "title": "Cowin WebScraper",
+    "description": "Get the vaccination details in real time"
+  },
+  "paths": {
+    "/registerNotify": {
+      "get": {
+        "tags": [
+          "Notification"
+        ],
+        "description": "Get the link to register for notification",
+        "responses": {
+          "201": {
+            "description": "Link for registration",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string",
+                  "example": "To register, click here"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/getStates": {
+      "get": {
+        "tags": [
+          "States And District"
+        ],
+        "description": "Get the List of States to pass the ID and get the District",
+        "responses": {
+          "201": {
+            "description": "Get the States",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string",
+                  "example": "List of States"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/getDistrict/{state_id}": {
+      "get": {
+        "tags": [
+          "States And District"
+        ],
+        "description": "Get the list of Districts based on the State ID",
+        "parameters": [
+          {
+            "in": "path",
+            "name": "state_id",
+            "required": true,
+            "description": "language",
+            "schema": {
+              "type": "integer",
+              "example": 1
+            }
+          }
+        ],
+        "responses": {
+          "201": {
+            "description": "Get the Districts for the State",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string",
+                  "example": "List of Districts"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/setSearch": {
+      "post": {
+        "tags": [
+          "Data"
+        ],
+        "description": "Start the Search for Vaccinations. List of Filters Available [Age 45+, Age 18+, Covaxin, Covishield, Sputnik V, Free, Paid]. Use these filters only.",
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "state_id": {
+                    "type": "integer"
+                  },
+                  "district_id": {
+                    "type": "integer"
+                  },
+                  "filters": {
+                    "type": "array",
+                    "items": {
+                      "type": "string"
+                    }
+                  }
+                },
+                "example": {
+                  "state_id": 31,
+                  "district_id": 171,
+                  "filters": [
+                    "Age 45+",
+                    "Covaxin",
+                    "Covishield",
+                    "Paid"
+                  ]
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "201": {
+            "description": "Success",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string",
+                  "example": "Resquest Placed Successfully"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Error"
+          }
+        }
+      }
+    }
+  }
+}

@@ -551,3 +551,53 @@ TimedPromise@chrome://marionette/content/sync.js:220:10
 interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
 webdriverClickElement@chrome://marionette/content/interaction.js:179:31
 1621097016317	Marionette	INFO	Stopped listening on port 53418
+1621439763832	geckodriver	INFO	Listening on 127.0.0.1:60920
+1621439764726	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileaWcOf3"
+*** You are running in headless mode.
+1621439768746	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621439770980	Marionette	INFO	Listening on port 60930
+1621439771015	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1621439959835	geckodriver	INFO	Listening on 127.0.0.1:61114
+1621439960842	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofilee3Uin5"
+*** You are running in headless mode.
+1621439961482	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621439963724	Marionette	INFO	Listening on port 61121
+1621439963810	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621439985919	Marionette	INFO	Stopped listening on port 61121
+1621440155725	geckodriver	INFO	Listening on 127.0.0.1:61261
+1621440156735	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileSQjnfT"
+*** You are running in headless mode.
+1621440157248	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621440158810	Marionette	INFO	Listening on port 61269
+1621440158906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621440179675	Marionette	INFO	Stopped listening on port 61269
+1621440426499	geckodriver	INFO	Listening on 127.0.0.1:61468
+1621440427507	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileryGJqp"
+*** You are running in headless mode.
+1621440428271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621440430791	Marionette	INFO	Listening on port 61475
+1621440430830	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621440442071	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621440450870	Marionette	INFO	Stopped listening on port 61475
+1621441982333	geckodriver	INFO	Listening on 127.0.0.1:62690
+1621441983341	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--headless" "-foreground" "-no-remote" "-profile" "/var/folders/_8/0wvw42yd5g9_p6skffzk6lb40000gn/T/rust_mozprofileXqVwt9"
+*** You are running in headless mode.
+1621441984030	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621441985987	Marionette	INFO	Listening on port 62698
+1621441986026	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621442005003	Marionette	INFO	Stopped listening on port 62698

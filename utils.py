@@ -39,3 +39,15 @@ class Cowinutils:
             if district['district_id'] == district_id:
                 districtName = district['district_name']
         return stateName, districtName
+    
+    def getStates(self):
+        REQUEST_URL = "https://cdn-api.co-vin.in/api/v2/admin/location/states"
+        self.headers={
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36"}
+        result = requests.get(REQUEST_URL, headers=self.headers)
+        self.STATES_JSON = result.json()
+
+    def getDistrict(self, state_id):
+        REQUEST_URL = "https://cdn-api.co-vin.in/api/v2/admin/location/districts/"+str(state_id)
+        result = requests.get(REQUEST_URL, headers=self.headers)
+        self.DISTRICTS = result.json()

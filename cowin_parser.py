@@ -62,7 +62,7 @@ class CowinParser():
             row_split = row_text.split("\n")
             isSlotAvailable = self.isSlotAvailable(row_split)
             if isSlotAvailable:
-                file = open("hospitaldata.txt", "w")
+                file = open("hospitaldata.txt", "a")
                 file.write(row_split[0])
         file.close()
 
